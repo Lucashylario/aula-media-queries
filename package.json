@@ -1,10 +1,9 @@
 {
   "name": "aula-media-queries",
   "version": "1.0.0",
-  "description": "",
+  "description": "Para rodar o projeto, digite:",
   "main": "index.js",
   "scripts": {
-    "perstart": "npx cowsay O servidor está iniciando. Bom trabalho!",
     "start": "npx live-server src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +15,14 @@
   "license": "ISC",
   "devDependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucashylario/aula-media-queries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lucashylario/aula-media-queries/issues"
+  },
+  "homepage": "https://github.com/Lucashylario/aula-media-queries#readme"
 }
